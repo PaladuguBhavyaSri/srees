@@ -15,3 +15,18 @@ This repository contains git and github files
 ***both bold and italic type of fontstyles***
 
 [Google](https://www.google.com/)
+
+![vizag]()
+
+* Countries
+  * India
+  * Australia
+  * Newzeland
+1. Fruits
+   1. Orange
+   2. Banana
+   3. Mango
+ 
+Table 1 | Table 2| Table 3
+--------|--------|--------
+Name|Roll no|Graduatuion
