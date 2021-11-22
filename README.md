@@ -16,7 +16,7 @@ This repository contains git and github files
 
 [Google](https://www.google.com/)
 
-![vizag]()
+![vizag](https://assets.thehansindia.com/h-upload/2021/03/23/1053521-charminar.webp)
 
 * Countries
   * India
