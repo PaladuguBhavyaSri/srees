@@ -16,9 +16,8 @@ This repository contains git and github files
 
 [Google](https://www.google.com/)
 
-![vizag](https://assets.thehansindia.com/h-upload/2021/03/23/1053521-charminar.webp)
+![vizag](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F84qTD1G2QI5pHMGF1PjQJpmBwPenT51GkuIiJAM3bYfyVwn1Y-Rc8oeEL6AuO72XGk&usqp=CAU)
 
-* Countries
   * India
   * Australia
   * Newzeland
@@ -30,3 +29,5 @@ This repository contains git and github files
 Table 1 | Table 2| Table 3
 --------|--------|--------
 Name|Roll no|Graduatuion
+
+
